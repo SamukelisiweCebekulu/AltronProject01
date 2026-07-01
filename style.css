@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+nav{
+    background-color: #555;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+main{
+    margin-top: 40px;
+}
+
+#shape{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: auto;
+}
+
+.buttons{
+    margin-top: 30px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
