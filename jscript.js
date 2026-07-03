@@ -1,6 +1,6 @@
 let shape = document.getElementById("shape");
 
-let colors = ["red", "pink", "green", "black", "purple"];
+let colors = ["lime", "pink", "maroon", "black", "purple"];
 let colorIndex = 0;
 
 let isCircle = false;
