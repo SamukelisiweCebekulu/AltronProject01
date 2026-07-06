@@ -1,6 +1,4 @@
 const quotes = [
-  "Be kind",
-
   "Smile - Muhammad Baiyant",
 
   "You don't have to be great to start, but you have to start to be great. - Zig Ziglar",
@@ -25,7 +23,36 @@ const quotes = [
 
   "Although the world is full of suffering, it is also full of the overcoming of it. - Helen Keller",
 
-  "The human capacity for burden is like bamboo. Far more flexible than you'd ever believe at first glance. - Jodi Picoult, My Sister's Keeper"
+  "The human capacity for burden is like bamboo. Far more flexible than you'd ever believe at first glance. - Jodi Picoult, My Sister's Keeper",
+
+  "The secret of getting ahead is getting started - Mark Twain",
+
+  "A journey of a thousand miles begins with a single step - Lao Tzu",
+
+  "The best time to plant a tree was twenty years ago. The second best time is now - Chinese proverb",
+
+  "You don’t have to see the whole staircase, just take the first step - Martin Luther King Jr.",
+
+  "The beginning is always today - Mary Wollstonecraft",
+
+  "Just begin. The rest will follow - Goethe",
+
+  "Start where you are. Use what you have. Do what you can - Arthur Ashe",
+
+  "The secret to getting things done is to act - Dante Alighieri",
+
+  "Action is the antidote to despair - Joan Baez",
+
+  "What you do today can improve all your tomorrows - Ralph Marston",
+
+  "Done is better than perfect - Sheryl Sandberg, COO of Meta",
+
+  "Well done is better than well said - Benjamin Franklin",
+
+  "Lessssss Go! - Sfundo Khumalo",
+
+  "Heavy is the head that chose to wear the crown - Kendrick Lamar & samu"
+
 ]
 
 const quotesElement = document.querySelector(".quote");
