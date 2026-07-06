@@ -70,7 +70,7 @@ main {
     background: white;
     border-radius: 16px;
     padding: 30px;
-    width: 100%;
+    width: 50%;
     box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }
 
@@ -91,6 +91,7 @@ main {
     object-fit: cover;
     display: block;
     transition: opacity 0.4s ease, transform 0.4s ease;
+    cursor: pointer;
 }
 
 .slideshow-container:active #slideshow-image {
